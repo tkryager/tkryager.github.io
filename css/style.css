@@ -1,26 +1,4 @@
-body {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  font-family:"Courier New", Courier, monospace;
-
-	color: teal;
-}
-
-.navbar {
-  margin-bottom: 20px;
-}
-
-
-.btn-primary {
-    color: teal;
-    background-color: white;
-    border-color: #2E6DA4;
-
-      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
-      @import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
-      */
-
-
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic);
 * {
 		font-family: "Roboto", Arial, sans-serif;
 }
@@ -203,4 +181,3 @@ p {
 		left:-3px;
 	}
 }
-    
