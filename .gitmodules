@@ -7,3 +7,6 @@
 [submodule "electricDreams"]
 	path = electricDreams
 	url = https://github.com/tkryager/electricDreams.git
+[submodule "MADlibs"]
+	path = MADlibs
+	url = https://github.com/tkryager/MADlibs.git
