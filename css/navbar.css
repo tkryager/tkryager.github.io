@@ -1,6 +1,9 @@
 body {
   padding-top: 20px;
   padding-bottom: 20px;
+  font-family:"Courier New", Courier, monospace;
+	background-color: black;
+	color: teal;
 }
 
 .navbar {
