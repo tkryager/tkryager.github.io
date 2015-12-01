@@ -1,3 +1,6 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/tkryager/slider.git
+[submodule "jqueryFAQ"]
+	path = jqueryFAQ
+	url = https://github.com/tkryager/jqueryFAQ.git
