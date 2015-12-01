@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    background-image: url("ghostcopy.png");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left; 
+    color:orange;
+    font-family: ‘Courier New’, Courier, monospace;
+    text-align: center;
+
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p {
+    font-family: ‘Courier New’, Courier, monospace;
+    font-size: 20px;
+}
