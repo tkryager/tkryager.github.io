@@ -8,6 +8,7 @@ body {
 
 .navbar {
   margin-bottom: 20px;
+    font-family:"Courier New", Courier, monospace;
 }
 
 
@@ -18,5 +19,6 @@ body {
     color: teal;
     background-color: white;
     border-color: teal;
+      font-family:"Courier New", Courier, monospace;
 
    }
