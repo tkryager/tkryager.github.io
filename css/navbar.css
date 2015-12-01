@@ -15,6 +15,7 @@ body {
 	margin-left: 20px;
 
 }
-.btn btn-lg btn-primary {
-	color:white;
-}
+.btn-primary {
+    color: teal;
+    background-color: white;
+    border-color: #2E6DA4;
