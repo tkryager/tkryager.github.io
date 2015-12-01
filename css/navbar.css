@@ -13,8 +13,8 @@ body {
 
 
 .btn-primary {
-     position: left;
-    left: 10px;
+     
+    right: 100px;
     border: 3px solid #73AD21;
     color: teal;
     background-color: white;
