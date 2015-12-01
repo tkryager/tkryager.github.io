@@ -21,8 +21,5 @@ body {
 
 
 .buttons {
-	padding-right: 15px;
-    padding-left:40%;
-    margin-right: auto;
-    margin-left: auto;
+	float: right;
 }
