@@ -10,8 +10,11 @@ body {
   margin-bottom: 20px;
 }
 
-#buttons {
+.buttons {
 
 	margin-left: 20px;
 
+}
+.btn btn-lg btn-primary {
+	color:white;
 }
