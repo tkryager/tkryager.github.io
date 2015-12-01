@@ -12,7 +12,7 @@ body {
 
 .buttons {
 
-	margin-left: 20px;
+	position: absolute;
 
 }
 .btn-primary {
