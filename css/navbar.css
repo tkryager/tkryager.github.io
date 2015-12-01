@@ -10,7 +10,9 @@ body {
   margin-bottom: 20px;
     font-family:"Courier New", Courier, monospace;
 }
-
+.navbar-default {
+ font-family:"Courier New", Courier, monospace;
+}
 
 .btn-primary {
      
