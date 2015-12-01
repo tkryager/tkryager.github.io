@@ -12,9 +12,11 @@ body {
 
 
 .btn-primary {
-    vertical-align: left;
+     position: relative;
+    left: 10px;
+    border: 3px solid #73AD21;
     color: teal;
     background-color: white;
-    border-color: #2E6DA4;
+    border-color: teal;
 
    }
