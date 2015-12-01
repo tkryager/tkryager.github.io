@@ -6,6 +6,10 @@ body {
 	color: teal;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 .navbar {
   margin-bottom: 20px;
     font-family:"Courier New", Courier, monospace;
