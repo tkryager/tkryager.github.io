@@ -10,13 +10,14 @@ body {
   margin-bottom: 20px;
 }
 
-.buttons {
 
-	position: absolute;
-	right: 30%;
-
-}
 .btn-primary {
     color: teal;
     background-color: white;
     border-color: #2E6DA4;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
