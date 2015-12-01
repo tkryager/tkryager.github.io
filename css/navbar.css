@@ -13,6 +13,7 @@ body {
 .buttons {
 
 	position: absolute;
+	right: 30%;
 
 }
 .btn-primary {
