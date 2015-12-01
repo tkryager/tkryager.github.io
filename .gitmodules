@@ -4,3 +4,6 @@
 [submodule "jqueryFAQ"]
 	path = jqueryFAQ
 	url = https://github.com/tkryager/jqueryFAQ.git
+[submodule "electricDreams"]
+	path = electricDreams
+	url = https://github.com/tkryager/electricDreams.git
