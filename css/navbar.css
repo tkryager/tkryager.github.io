@@ -21,5 +21,7 @@ body {
 
 
 .buttons {
-	float: center;
+	   position: absolute;
+    left: 100px;
+    top: 150px;
 }
