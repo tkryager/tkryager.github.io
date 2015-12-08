@@ -10,3 +10,6 @@
 [submodule "MADlibs"]
 	path = MADlibs
 	url = https://github.com/tkryager/MADlibs.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/tkryager/lightbox.git
