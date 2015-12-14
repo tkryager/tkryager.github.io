@@ -13,3 +13,6 @@
 [submodule "lightbox"]
 	path = lightbox
 	url = https://github.com/tkryager/lightbox.git
+[submodule "time"]
+	path = time
+	url = https://github.com/tkryager/time.git
